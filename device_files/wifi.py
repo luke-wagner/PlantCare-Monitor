@@ -1,3 +1,10 @@
+'''
+File: wifi.py
+Author: Luke Wagner
+
+Establishes a connection to the wifi from the ESP32
+'''
+
 import network
 import time
 
